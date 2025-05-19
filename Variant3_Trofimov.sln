@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variant3_trofimov", "Variant3_trofimov.csproj", "{FF74FD17-B2C6-49E6-A56F-E8C053B6DBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF74FD17-B2C6-49E6-A56F-E8C053B6DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF74FD17-B2C6-49E6-A56F-E8C053B6DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF74FD17-B2C6-49E6-A56F-E8C053B6DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF74FD17-B2C6-49E6-A56F-E8C053B6DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC30DD98-95DD-4C65-8619-0A8E7937F211}
+	EndGlobalSection
+EndGlobal
